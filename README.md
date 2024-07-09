@@ -9,11 +9,9 @@
 7. https://github.com/menon92/DL-Sneak-Peek?tab=readme-ov-file
 8. https://enamulhaque.co.uk/f/generative-ai-in-bangla-part-1 (1-6)
 9. https://blogwithhasan.home.blog/category/machine-learning/
-
-1. https://aiwithr.github.io/getting-started/
+10. https://aiwithr.github.io/getting-started/
 
 বই
-
 1. https://www.rokomari.com/book/173164/machine-learning-algorithm
 2. https://www.rokomari.com/book/187277/shunno-theke-python-machine-learning-hate-kalame-scikit-learn-hatekolome-machine-learning-series-iris-dataset-project
 3. https://www.rokomari.com/book/174186/hatekolome-machine-learning-2nd-edition
